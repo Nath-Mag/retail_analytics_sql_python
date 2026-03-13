@@ -69,9 +69,6 @@ retail_analytics_sql_python/
 ├── sql/
 │   └── queries.sql
 │
-├── dashboard/
-│   └── app.py
-│
 ├── requirements.txt
 ├── .gitignore
 └── README.md

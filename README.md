@@ -50,30 +50,32 @@ The dataset contains transactional data from a UK-based online retailer includin
 
 ## Project Structure
 
+```text
 retail_analytics_sql_python/
 │
 ├── data/
-│ ├── raw/
-│ │ online_retail.csv
-│ └── processed/
-│ retail_cleaned.csv
-│ customer_rfm_segments.csv
+│   ├── raw/
+│   │   └── online_retail.xlsx
+│   └── processed/
+│       ├── retail_cleaned.csv
+│       └── customer_rfm_segments.csv
 │
 ├── notebooks/
-│ 01_data_cleaning.ipynb
-│ 02_sql_analysis.ipynb
-│ 03_customer_segmentation.ipynb
-│ 04_business_insights.ipynb
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_sql_analysis.ipynb
+│   ├── 03_customer_segmentation.ipynb
+│   └── 04_business_insights.ipynb
 │
 ├── sql/
-│ queries.sql
+│   └── queries.sql
 │
 ├── dashboard/
-│ app.py
+│   └── app.py
 │
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 
 ---

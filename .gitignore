@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+data/raw/
+
+# Python environment files
+.env
+
+# Streamlit cache
+.streamlit/
+
+# VSCode
+.vscode/
+
+# Mac system files
+*.DS_Store

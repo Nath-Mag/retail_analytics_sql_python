@@ -185,6 +185,12 @@ Explore opportunities to expand sales beyond the UK market to reduce geographic 
 
 ---
 
+## Power BI Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+---
+
 ## Tools and Technologies
 
 Python  

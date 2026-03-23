@@ -187,7 +187,16 @@ Explore opportunities to expand sales beyond the UK market to reduce geographic 
 
 ## Power BI Dashboard
 
-![Dashboard](assets/dashboard.png)
+This dashboard highlights:
+- Revenue trend over time
+- Revenue by country
+- Top performing products
+- Customer segment distribution
+- Business-focused KPI summary
+
+Click below to view the interactive dashboard:
+
+[View Dashboard](dashboard.png)
 
 ---
 
